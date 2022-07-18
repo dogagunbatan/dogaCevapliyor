@@ -1,4 +1,4 @@
-# YES NO API
+# Doğa Cevaplıyor
 
 ## Ask a yes no question
 
